@@ -18,5 +18,5 @@ prepare_base_model:
 
 
 training:
-  root_dir: artifacts/training
-  trained_model_path: artifacts/training/model.h5
+  root_dir: C:/Users/User/Desktop/ENDTOEND/end_to_end_classification/artifacts/training
+  trained_model_path: C:/Users/User/Desktop/ENDTOEND/end_to_end_classification/artifacts/training/model.h5
